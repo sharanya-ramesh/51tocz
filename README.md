@@ -1,6 +1,6 @@
 # Playwright Automation Test Suite
 
-This repository contains automation test cases for an assignment. The tests are built using **Playwright** with **JavaScript** and cover various end-to-end (E2E) scenarios for the website [51 to Carbon Zero](https://alpha.51tocarbonzero.com/#/sign-in).
+This repository contains automation test cases for an assignment. The tests are built using **Playwright** with **JavaScript** and cover various end-to-end (E2E) scenarios for a website.
 
 ## Prerequisites
 
